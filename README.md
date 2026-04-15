@@ -5,19 +5,17 @@
 *Threat Hunt Exercise — Training Purpose*
 
 ---
+## Report Metadata
 
-| Field | Detail |
+|| Field | Detail |
 |---|---|
+| **Organization** | Azuki Import/Export Trading Co. |
 | **Date of Report:** | 2026-04-10 |
-| **Incident ID:** | IR-2025-001 |
-| **Analyst:** | Ramzy Aboughlia |
-| **Severity Level:** | CRITICAL |
-| **Report Status:** | Contained |
-| **Escalated To:** | SOC Manager / CISO |
-| **Affected Organization:** | Azuki Import/Export Trading Co. |
-| **Affected System:** | AZUKI-SL (IT Admin Workstation) |
 | **Incident Date:** | 2025-11-19 |
-
+| **Analyst:** | Ramzy Aboughlia |
+| **Affected System:** | AZUKI-SL (IT Admin Workstation) |
+| **Severity:** | CRITICAL |
+| ** Status:** | Contained |
 ---
 
 ## SUMMARY OF FINDINGS
