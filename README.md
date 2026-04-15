@@ -7,7 +7,7 @@
 ---
 ## Report Metadata
 
-|| Field | Detail |
+| Field | Detail |
 |---|---|
 | **Organization** | Azuki Import/Export Trading Co. |
 | **Date of Report:** | 2026-04-10 |
